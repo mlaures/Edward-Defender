@@ -1,7 +1,7 @@
 # Edward-Defender
-Remake of classic arcade game Defender. Made through NHSGA Summer 2015.
+Remake of classic arcade game Defender by Andy Lei, Andrew Wang, Oliver Tan, Corbin WestKaemper, and Mei-Ling Laures. Made through NHSGA Summer 2015.
 
-Included files are those I coded for the Unity project. These scripts were attached to Unity objects within the scene.
+Included files are those I (Mei-Ling Laures) coded for the Unity project. These scripts were attached to Unity objects within the scene.
 
 The playable game can be found on Dropbox.
 Link:
